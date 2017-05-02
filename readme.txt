@@ -7,3 +7,4 @@ Git is free software.
 branch test
 333333333333333lalalala
 ibck2
+分支管理策略
